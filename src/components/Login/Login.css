@@ -1,0 +1,23 @@
+/* Social Media Login */
+ul li img {
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+}
+ul li{
+    cursor: pointer;
+    list-style: none;
+}
+ul{
+    text-align: center;
+}
+.extraLogin {
+    padding: 0;
+}
+
+.extraLogin li{
+    padding: 10px 0;
+    border: 1px solid gray;
+    border-radius: 50px 50px;
+    margin-bottom: 8px;
+}
